@@ -1,0 +1,11 @@
+<input [(ngModel)]="processData.NumberOne" type="number" placeholder="Sayı 1 giriniz" style="width: 150px; height: 40px;">
+<input [(ngModel)]="processData.NumberTwo" type="number" placeholder="Sayı 2 giriniz" style="width: 150px; height: 40px;">
+
+<select [(ngModel)]="processData.ProcessType" name="islem" id="islem">
+    <option value="1" >Topla</option>
+    <option value="2">Çıkar</option>
+    <option value="3">Çarp</option>
+    <option value="4">Böl</option>
+</select>
+<button type="button" (click)="process()">Hesapla</button>
+{{ result }}

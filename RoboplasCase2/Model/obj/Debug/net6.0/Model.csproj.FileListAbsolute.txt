@@ -1,0 +1,11 @@
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\burak\OneDrive\Masaüstü\RoboplasCase2\Model\obj\Debug\net6.0\ref\Model.dll
